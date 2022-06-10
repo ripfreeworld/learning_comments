@@ -1,0 +1,3 @@
+/Users/ripfreeworld/Desktop/C++/FriendFunc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ripfreeworld/Desktop/C++/FriendFunc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ripfreeworld/Desktop/C++/FriendFunc/cmake-build-debug/CMakeFiles/FriendFunc.dir

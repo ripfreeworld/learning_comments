@@ -1,0 +1,3 @@
+/Users/ripfreeworld/Desktop/C++/static/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ripfreeworld/Desktop/C++/static/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ripfreeworld/Desktop/C++/static/cmake-build-debug/CMakeFiles/static.dir
